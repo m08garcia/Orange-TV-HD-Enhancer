@@ -2,7 +2,8 @@
 Script de Tampermonkey que cambia automáticamente la calidad de reproducción de Orange TV de SD a FHD
 
 ## Instalación
-### 1º Instalar Tampermonkey
+### 1º Descargar [Orange TV HD Enhancer.js](https://raw.githubusercontent.com/m08garcia/Orange-TV-HD-Enhancer/refs/heads/main/Orange%20TV%20HD%20Enhancer.js) desde este repositorio
+### 2º Instalar Tampermonkey
 - [Chrome](https://chromewebstore.google.com/detail/dhdgffkkebhmkfjojejmpbldmpobfkfo?utm_source=item-share-cb)
 - [Firefox](https://addons.mozilla.org/es-ES/firefox/addon/tampermonkey/)
 ### 2º Instalar script
