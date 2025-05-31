@@ -7,7 +7,7 @@ Script de Tampermonkey que cambia automáticamente la calidad de reproducción d
 - [Chrome](https://chromewebstore.google.com/detail/dhdgffkkebhmkfjojejmpbldmpobfkfo?utm_source=item-share-cb)
 - [Firefox](https://addons.mozilla.org/es-ES/firefox/addon/tampermonkey/)
 ### 2º Instalar script
-- Abrir menú de tampermonkey, click en Agregar nuevo script y Arrastrar el archivo .js descargado
+- Abrir menú de tampermonkey, click en Agregar nuevo script, arrastrar el archivo .js descargado y click en Instalar
 
 ## USO
 - Al abrir Orange TV encontrarás un botón en la parte inferior izquierda para activar o desactivar el script, si no está activado pulse y recarge la página y ya cuando reproduzca un canal se debería ver en Full HD
